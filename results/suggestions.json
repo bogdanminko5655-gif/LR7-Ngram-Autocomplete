@@ -1,0 +1,488 @@
+[
+  {
+    "context": "the king",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "henry",
+        "probability": 0.007636
+      },
+      {
+        "word": "i",
+        "probability": 0.006909
+      },
+      {
+        "word": "of",
+        "probability": 0.003273
+      },
+      {
+        "word": "thou",
+        "probability": 0.003273
+      },
+      {
+        "word": "and",
+        "probability": 0.002545
+      }
+    ]
+  },
+  {
+    "context": "the king",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "and",
+        "probability": 0.001952
+      },
+      {
+        "word": "of",
+        "probability": 0.001952
+      },
+      {
+        "word": "a",
+        "probability": 0.001171
+      },
+      {
+        "word": "as",
+        "probability": 0.001171
+      },
+      {
+        "word": "before",
+        "probability": 0.001171
+      }
+    ]
+  },
+  {
+    "context": "the king",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "has",
+        "probability": 0.001195
+      },
+      {
+        "word": "of",
+        "probability": 0.001195
+      },
+      {
+        "word": "a",
+        "probability": 0.000398
+      },
+      {
+        "word": "abhor",
+        "probability": 0.000398
+      },
+      {
+        "word": "abide",
+        "probability": 0.000398
+      }
+    ]
+  },
+  {
+    "context": "my love",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "to",
+        "probability": 0.007931
+      },
+      {
+        "word": "and",
+        "probability": 0.006552
+      },
+      {
+        "word": "is",
+        "probability": 0.006552
+      },
+      {
+        "word": "that",
+        "probability": 0.005862
+      },
+      {
+        "word": "you",
+        "probability": 0.005172
+      }
+    ]
+  },
+  {
+    "context": "my love",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "is",
+        "probability": 0.002724
+      },
+      {
+        "word": "as",
+        "probability": 0.001946
+      },
+      {
+        "word": "shall",
+        "probability": 0.001946
+      },
+      {
+        "word": "to",
+        "probability": 0.001946
+      },
+      {
+        "word": "alone",
+        "probability": 0.001167
+      }
+    ]
+  },
+  {
+    "context": "my love",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "is",
+        "probability": 0.001989
+      },
+      {
+        "word": "as",
+        "probability": 0.001193
+      },
+      {
+        "word": "looks",
+        "probability": 0.001193
+      },
+      {
+        "word": "shall",
+        "probability": 0.001193
+      },
+      {
+        "word": "a",
+        "probability": 0.000398
+      }
+    ]
+  },
+  {
+    "context": "i shall",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "be",
+        "probability": 0.017133
+      },
+      {
+        "word": "i",
+        "probability": 0.006643
+      },
+      {
+        "word": "not",
+        "probability": 0.005245
+      },
+      {
+        "word": "find",
+        "probability": 0.004545
+      },
+      {
+        "word": "see",
+        "probability": 0.004545
+      }
+    ]
+  },
+  {
+    "context": "i shall",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "beseech",
+        "probability": 0.002737
+      },
+      {
+        "word": "see",
+        "probability": 0.002737
+      },
+      {
+        "word": "be",
+        "probability": 0.001955
+      },
+      {
+        "word": "lose",
+        "probability": 0.001955
+      },
+      {
+        "word": "ask",
+        "probability": 0.001173
+      }
+    ]
+  },
+  {
+    "context": "i shall",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "be",
+        "probability": 0.001197
+      },
+      {
+        "word": "a",
+        "probability": 0.000399
+      },
+      {
+        "word": "abhor",
+        "probability": 0.000399
+      },
+      {
+        "word": "abide",
+        "probability": 0.000399
+      },
+      {
+        "word": "able",
+        "probability": 0.000399
+      }
+    ]
+  },
+  {
+    "context": "to the",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "king",
+        "probability": 0.011972
+      },
+      {
+        "word": "world",
+        "probability": 0.011161
+      },
+      {
+        "word": "time",
+        "probability": 0.006696
+      },
+      {
+        "word": "king's",
+        "probability": 0.004667
+      },
+      {
+        "word": "duke",
+        "probability": 0.004261
+      }
+    ]
+  },
+  {
+    "context": "to the",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "crown",
+        "probability": 0.002664
+      },
+      {
+        "word": "king",
+        "probability": 0.002664
+      },
+      {
+        "word": "world",
+        "probability": 0.002664
+      },
+      {
+        "word": "countess",
+        "probability": 0.001903
+      },
+      {
+        "word": "court",
+        "probability": 0.001903
+      }
+    ]
+  },
+  {
+    "context": "to the",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "dark",
+        "probability": 0.001194
+      },
+      {
+        "word": "great",
+        "probability": 0.001194
+      },
+      {
+        "word": "tent",
+        "probability": 0.001194
+      },
+      {
+        "word": "wide",
+        "probability": 0.001194
+      },
+      {
+        "word": "a",
+        "probability": 0.000398
+      }
+    ]
+  },
+  {
+    "context": "and the",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "king",
+        "probability": 0.011972
+      },
+      {
+        "word": "world",
+        "probability": 0.011161
+      },
+      {
+        "word": "time",
+        "probability": 0.006696
+      },
+      {
+        "word": "king's",
+        "probability": 0.004667
+      },
+      {
+        "word": "duke",
+        "probability": 0.004261
+      }
+    ]
+  },
+  {
+    "context": "and the",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "bishop",
+        "probability": 0.001939
+      },
+      {
+        "word": "two",
+        "probability": 0.001939
+      },
+      {
+        "word": "business",
+        "probability": 0.001164
+      },
+      {
+        "word": "case",
+        "probability": 0.001164
+      },
+      {
+        "word": "counterfeit",
+        "probability": 0.001164
+      }
+    ]
+  },
+  {
+    "context": "and the",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "case",
+        "probability": 0.001192
+      },
+      {
+        "word": "firm",
+        "probability": 0.001192
+      },
+      {
+        "word": "master",
+        "probability": 0.001192
+      },
+      {
+        "word": "mute",
+        "probability": 0.001192
+      },
+      {
+        "word": "sad",
+        "probability": 0.001192
+      }
+    ]
+  },
+  {
+    "context": "you are",
+    "requested_n": 2,
+    "used_n": 2,
+    "suggestions": [
+      {
+        "word": "not",
+        "probability": 0.010854
+      },
+      {
+        "word": "you",
+        "probability": 0.007353
+      },
+      {
+        "word": "for",
+        "probability": 0.004552
+      },
+      {
+        "word": "a",
+        "probability": 0.003151
+      },
+      {
+        "word": "past",
+        "probability": 0.003151
+      }
+    ]
+  },
+  {
+    "context": "you are",
+    "requested_n": 3,
+    "used_n": 3,
+    "suggestions": [
+      {
+        "word": "too",
+        "probability": 0.003505
+      },
+      {
+        "word": "a",
+        "probability": 0.002726
+      },
+      {
+        "word": "my",
+        "probability": 0.001947
+      },
+      {
+        "word": "not",
+        "probability": 0.001947
+      },
+      {
+        "word": "the",
+        "probability": 0.001947
+      }
+    ]
+  },
+  {
+    "context": "you are",
+    "requested_n": 5,
+    "used_n": 5,
+    "suggestions": [
+      {
+        "word": "more",
+        "probability": 0.001197
+      },
+      {
+        "word": "a",
+        "probability": 0.000399
+      },
+      {
+        "word": "abhor",
+        "probability": 0.000399
+      },
+      {
+        "word": "abide",
+        "probability": 0.000399
+      },
+      {
+        "word": "able",
+        "probability": 0.000399
+      }
+    ]
+  }
+]

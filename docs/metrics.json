@@ -1,0 +1,53 @@
+{
+  "corpus_name": "shakespeare.txt",
+  "seed": 42,
+  "train_ratio": 0.8,
+  "min_word_frequency": 2,
+  "smoothing_k": 0.5,
+  "train_sentences": 5221,
+  "test_sentences": 1306,
+  "train_tokens": 41717,
+  "test_tokens": 10495,
+  "vocabulary_size": 2504,
+  "rare_unk_count_test": 1165,
+  "test_oov_rate": 0.111005,
+  "training_seconds": 0.239,
+  "perplexities": [
+    {
+      "n": 1,
+      "model": "1-грами",
+      "perplexity": 246.32739,
+      "ngrams_unique": 2504,
+      "evaluation_ms": 7.694
+    },
+    {
+      "n": 2,
+      "model": "2-грами",
+      "perplexity": 473.38605,
+      "ngrams_unique": 22757,
+      "evaluation_ms": 18.618
+    },
+    {
+      "n": 3,
+      "model": "3-грами",
+      "perplexity": 1303.45296,
+      "ngrams_unique": 36643,
+      "evaluation_ms": 19.243
+    },
+    {
+      "n": 4,
+      "model": "4-грами",
+      "perplexity": 1591.39364,
+      "ngrams_unique": 39563,
+      "evaluation_ms": 21.701
+    },
+    {
+      "n": 5,
+      "model": "5-грами",
+      "perplexity": 1629.79685,
+      "ngrams_unique": 39921,
+      "evaluation_ms": 35.747
+    }
+  ],
+  "best_model": "1-грами"
+}
